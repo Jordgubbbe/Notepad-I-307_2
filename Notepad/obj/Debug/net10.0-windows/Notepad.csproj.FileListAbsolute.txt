@@ -1,0 +1,6 @@
+C:\Users\24300604\source\repos\Notepad\Notepad\obj\Debug\net10.0-windows\Notepad.Form1.resources
+C:\Users\24300604\source\repos\Notepad\Notepad\obj\Debug\net10.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\24300604\source\repos\Notepad\Notepad\obj\Debug\net10.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24300604\source\repos\Notepad\Notepad\obj\Debug\net10.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\24300604\source\repos\Notepad\Notepad\obj\Debug\net10.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\24300604\source\repos\Notepad\Notepad\obj\Debug\net10.0-windows\Notepad.csproj.CoreCompileInputs.cache
